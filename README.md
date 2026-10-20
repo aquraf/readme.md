@@ -8,5 +8,5 @@
 - [BashCLI]()
 - [BashScripting]()
 - [Git](https://github.com/aquraf/readme.md/blob/main/%D0%B8%D0%B4%D0%B8)
-- [Работа BashScripting]()
+- [Работа BashScripting](https://github.com/aquraf/readme.md/blob/main/taskbash)
 - [Мой демонстрационный сайт]()
