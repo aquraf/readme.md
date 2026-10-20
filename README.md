@@ -7,6 +7,6 @@
 - [Mermaid](https://github.com/aquraf/readme.md/blob/main/%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%BA%D0%B0)
 - [BashCLI]()
 - [BashScripting]()
-- [Git]()
+- [Git](https://github.com/aquraf/readme.md/blob/main/%D0%B8%D0%B4%D0%B8)
 - [Работа BashScripting]()
 - [Мой демонстрационный сайт]()
